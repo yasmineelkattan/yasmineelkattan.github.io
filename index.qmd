@@ -1,6 +1,6 @@
 ---
 title: "Yasmine El-Kattan's website"
-author: Yasmine El-Kattan
+author: "Yasmine El-Kattan"
 format:
     html:
     theme: journal
