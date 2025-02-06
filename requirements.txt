@@ -22,7 +22,6 @@ kiwisolver==1.4.8
 matplotlib==3.10.0
 more-itertools==10.6.0
 msgpack==1.1.0
-numpy==2.2.2
 packaging===None
 pillow==11.1.0
 pkginfo==1.12.0
