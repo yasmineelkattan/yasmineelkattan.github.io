@@ -3,10 +3,11 @@ title: "Yasmine El-Kattan's website"
 author: "Yasmine El-Kattan"
 format:
     html:
-    theme: journal
-    tox: true
+        theme: journal
+        toc: true
 ---
-#Hi!
+
+# Hi!
 This is my Website for MET AD 688
 This is a Quarto website.
 
