@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "Hi, I’m Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Master’s in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "work"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "call me beep me if u wanna reach me"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects"
   }
 ]

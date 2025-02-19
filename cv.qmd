@@ -1,0 +1,9 @@
+---
+title: "CV"
+format:
+    html:
+        theme: journal
+        toc: true
+---
+
+# work
