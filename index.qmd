@@ -1,6 +1,5 @@
 ---
-title: "Yasmine El-Kattan's website"
-author: "Yasmine El-Kattan"
+title: "Yasmine El-Kattan"
 format:
     html:
         theme: journal
@@ -8,7 +7,4 @@ format:
 ---
 
 # Hi!
-This is my Website for MET AD 688
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails. 
