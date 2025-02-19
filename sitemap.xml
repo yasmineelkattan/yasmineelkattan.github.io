@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yasmineelkattan.github.io/index.html</loc>
-    <lastmod>2025-02-19T01:04:31.227Z</lastmod>
+    <loc>https://yasmineelkattan.github.io/cv.html</loc>
+    <lastmod>2025-02-19T01:09:39.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yasmineelkattan.github.io/projects.html</loc>
+    <lastmod>2025-02-19T01:09:39.963Z</lastmod>
   </url>
   <url>
     <loc>https://yasmineelkattan.github.io/about.html</loc>
-    <lastmod>2025-02-19T01:04:31.226Z</lastmod>
+    <lastmod>2025-02-19T01:09:39.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yasmineelkattan.github.io/contact.html</loc>
+    <lastmod>2025-02-19T01:09:39.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yasmineelkattan.github.io/index.html</loc>
+    <lastmod>2025-02-19T01:09:39.963Z</lastmod>
   </url>
 </urlset>
