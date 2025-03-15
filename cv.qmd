@@ -1,9 +1,69 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 format:
-    html:
-        theme: journal
-        toc: true
+  html:
+    toc: true
+  pdf:
+    author: Yasmine El-Kattan
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
 ---
 
-# work
+::: {.print-only .contact-block}
+Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | [LinkedIn](https://www.linkedin.com/in/yasmine-el-kattan/)
+:::
+
+## WORK EXPERIENCE
+
+**Wayfair - Castle Gate Forwarding** <br> *Procurement Data Analyst* [October 2022 – Present]{.cvdate}  
+*Boston, MA*
+
+- Developed and implemented a new process improvement strategy that increased efficiency by 33% within the first quarter by streamlining processes and creating user-friendly trackers.
+- Proactively evaluated and optimized existing process flows to identify areas for improvement, implementing process automation solutions to enhance supply chain efficiency and minimize manual intervention.
+- Facilitated seamless access to billing and procurement data by enabling self-service for Panama Canal surcharges, CargoProtect, and similar invoicing needs, reducing reliance on FinOps for recurring data pulls.
+- Gained expertise in the Supplier Contracts backend to streamline contract data flow into internal workflows, collaborating with external teams to ensure data integrity, optimize invoicing workflows, and enhance efficiency.
+- Identified and implemented automation opportunities to improve procurement processes, including developing a comprehensive accessorial billing dashboard via Looker Studio and Google BigQuery to track revenue, analyze supplier volume, and enable informed decision-making.
+
+**University of Massachusetts Amherst** <br> *Undergraduate Teaching Assistant* [September 2021 – May 2022]{.cvdate}  
+*Amherst, MA*
+
+**PepsiCo** <br> *Supply Chain Intern* [June – August 2021]{.cvdate}  
+*Detroit, MI*
+
+## DATA ANALYTICS PROJECTS{style="page-break-before: always"}
+
+### **Lobster Land Project (MET AD654)** [May – June 2024]{.cvdate}
+
+- Helped a park manager select the best combination of 1980s movies for an event by conducting exploratory data analysis in Python.
+- Cleaned data and extracted valuable insights using visualizations.
+- Ran summary statistics of the dataset to uncover key trends and information.
+- Performed segmentation for vendors and explained each cluster.
+- Conducted conjoint analysis to determine the most popular food combinations.
+- Used A/B testing to identify the best event poster.
+- Reported findings and provided optimal recommendations to the park manager.
+
+### **NYC Real Estate Business Case Analysis (MET AD571)** [September – December 2023]{.cvdate}
+
+- Assumed the role of a real estate agent and analyzed the feasibility of opening a business in Sunset Park.
+- Utilized real property value datasets from NYC.Gov, accessed via a SQL server database in RStudio.
+- Applied descriptive, predictive, and prescriptive analytics techniques to deploy the model.
+- The model calculated Market Penetration, Total Revenue, and Market Trends.
+
+## EDUCATION & CREDENTIALS
+
+**Boston University** <br> *Master’s of Science in Applied Business Analytics* [Candidate May 2025]{.cvdate}  
+*Boston, MA*
+
+**University of Massachusetts Amherst** <br> *Bachelor’s of Science in Industrial Engineering* [Graduated May 2022]{.cvdate}  
+*Amherst, MA*
+
+## ADDITIONAL INFORMATION
+
+**Skills:** SQL, Looker Studio, R, Python, Microsoft Power BI, Excel, Tableau, Data Mining, Database Design, CargoWise, NaviOS  
+**Languages:** Arabic - Native Fluency, Spanish - Novice Proficiency  
+
+::: {.print-only}
+## References
+Available upon request
+:::
