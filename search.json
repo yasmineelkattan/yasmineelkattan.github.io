@@ -1,17 +1,59 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "work"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "Projects"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | LinkedIn"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\nWayfair - Castle Gate Forwarding  Procurement Data Analyst October 2022 – Present\nBoston, MA\n\nDeveloped and implemented a new process improvement strategy that increased efficiency by 33% within the first quarter by streamlining processes and creating user-friendly trackers.\nProactively evaluated and optimized existing process flows to identify areas for improvement, implementing process automation solutions to enhance supply chain efficiency and minimize manual intervention.\nFacilitated seamless access to billing and procurement data by enabling self-service for Panama Canal surcharges, CargoProtect, and similar invoicing needs, reducing reliance on FinOps for recurring data pulls.\nGained expertise in the Supplier Contracts backend to streamline contract data flow into internal workflows, collaborating with external teams to ensure data integrity, optimize invoicing workflows, and enhance efficiency.\nIdentified and implemented automation opportunities to improve procurement processes, including developing a comprehensive accessorial billing dashboard via Looker Studio and Google BigQuery to track revenue, analyze supplier volume, and enable informed decision-making.\n\nUniversity of Massachusetts Amherst  Undergraduate Teaching Assistant September 2021 – May 2022\nAmherst, MA\nPepsiCo  Supply Chain Intern June – August 2021\nDetroit, MI"
+  },
+  {
+    "objectID": "cv.html#data-analytics-projects",
+    "href": "cv.html#data-analytics-projects",
+    "title": "Curriculum Vitae",
+    "section": "DATA ANALYTICS PROJECTS",
+    "text": "DATA ANALYTICS PROJECTS\n\nLobster Land Project (MET AD654) May – June 2024\n\nHelped a park manager select the best combination of 1980s movies for an event by conducting exploratory data analysis in Python.\nCleaned data and extracted valuable insights using visualizations.\nRan summary statistics of the dataset to uncover key trends and information.\nPerformed segmentation for vendors and explained each cluster.\nConducted conjoint analysis to determine the most popular food combinations.\nUsed A/B testing to identify the best event poster.\nReported findings and provided optimal recommendations to the park manager.\n\n\n\nNYC Real Estate Business Case Analysis (MET AD571) September – December 2023\n\nAssumed the role of a real estate agent and analyzed the feasibility of opening a business in Sunset Park.\nUtilized real property value datasets from NYC.Gov, accessed via a SQL server database in RStudio.\nApplied descriptive, predictive, and prescriptive analytics techniques to deploy the model.\nThe model calculated Market Penetration, Total Revenue, and Market Trends."
+  },
+  {
+    "objectID": "cv.html#education-credentials",
+    "href": "cv.html#education-credentials",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION & CREDENTIALS",
+    "text": "EDUCATION & CREDENTIALS\nBoston University  Master’s of Science in Applied Business Analytics Candidate May 2025\nBoston, MA\nUniversity of Massachusetts Amherst  Bachelor’s of Science in Industrial Engineering Graduated May 2022\nAmherst, MA"
+  },
+  {
+    "objectID": "cv.html#additional-information",
+    "href": "cv.html#additional-information",
+    "title": "Curriculum Vitae",
+    "section": "ADDITIONAL INFORMATION",
+    "text": "ADDITIONAL INFORMATION\nSkills: SQL, Looker Studio, R, Python, Microsoft Power BI, Excel, Tableau, Data Mining, Database Design, CargoWise, NaviOS\nLanguages: Arabic - Native Fluency, Spanish - Novice Proficiency"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yasmine El-Kattan",
+    "section": "",
+    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails."
   },
   {
     "objectID": "about.html",
@@ -26,12 +68,5 @@
     "title": "Contact Me",
     "section": "",
     "text": "call me beep me if u wanna reach me"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yasmine El-Kattan",
-    "section": "",
-    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails."
   }
 ]
