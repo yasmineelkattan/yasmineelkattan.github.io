@@ -29,7 +29,7 @@ Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | [LinkedIn](https://ww
 
 ## DATA ANALYTICS PROJECTS{style="page-break-before: always"}
 
-### **Lobster Land Project (MET AD654)** [May – June 2024]{.cvdate}
+**Lobster Land Project (MET AD654)** [May – June 2024]{.cvdate}
 
 - Helped a park manager select the best combination of 1980s movies for an event by conducting exploratory data analysis in Python.
 - Cleaned data and extracted valuable insights using visualizations.
@@ -39,7 +39,7 @@ Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | [LinkedIn](https://ww
 - Used A/B testing to identify the best event poster.
 - Reported findings and provided optimal recommendations to the park manager.
 
-### **NYC Real Estate Business Case Analysis (MET AD571)** [September – December 2023]{.cvdate}
+**NYC Real Estate Business Case Analysis (MET AD571)** [September – December 2023]{.cvdate}
 
 - Assumed the role of a real estate agent and analyzed the feasibility of opening a business in Sunset Park.
 - Utilized real property value datasets from NYC.Gov, accessed via a SQL server database in RStudio.
