@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Yasmine El-Kattan",
-    "section": "",
-    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "alt\n\n\nHi, I’m Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Master’s in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails.\nPersonal Background - palestinian american - lived every where bc baba did research -\nProfessional Background - studied ie it’s the best - interned at pepsi - during covid realized i found supply chain interesting - work at wayfair switched from customs to procurement analyst (ocean containers are super interesting and never ending) - went back to school to further my understanding of analytics to see how i can merge it with my job even more\nHobbies and how I got into them - reading - nails - working out - baking"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | LinkedIn"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "call me beep me if u wanna reach me"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects"
   },
   {
     "objectID": "cv.html#work-experience",
@@ -60,13 +32,34 @@
     "href": "cv.html#additional-information",
     "title": "Curriculum Vitae",
     "section": "ADDITIONAL INFORMATION",
-    "text": "ADDITIONAL INFORMATION\nSkills: SQL, Looker Studio, R, Python, Microsoft Power BI, Excel, Tableau, Data Mining, Database Design, CargoWise, NaviOS\nLanguages: Arabic - Native Fluency, Spanish - Novice Proficiency"
+    "text": "ADDITIONAL INFORMATION\nSkills: SQL, Looker Studio, R, Python, Microsoft Power BI, Excel, Tableau, Data Mining, Database Design, CargoWise, NaviOS\nLanguages: Arabic - Native Fluency, Spanish - Novice Proficiency\nReferences: Available upon request"
   },
   {
-    "objectID": "cv.html#references",
-    "href": "cv.html#references",
-    "title": "Curriculum Vitae",
-    "section": "References",
-    "text": "References\nAvailable upon request"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yasmine El-Kattan",
+    "section": "",
+    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "call me beep me if u wanna reach me"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "alt\n\n\nHi, I’m Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Master’s in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails.\nPersonal Background - palestinian american - lived every where bc baba did research -\nProfessional Background - studied ie it’s the best - interned at pepsi - during covid realized i found supply chain interesting - work at wayfair switched from customs to procurement analyst (ocean containers are super interesting and never ending) - went back to school to further my understanding of analytics to see how i can merge it with my job even more\nHobbies and how I got into them - reading - nails - working out - baking"
   }
 ]

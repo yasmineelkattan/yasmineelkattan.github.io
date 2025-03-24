@@ -59,7 +59,4 @@ Boston, MA | (781) 332-6907 | yasmineaelkattan@gmail.com | [LinkedIn](https://ww
 **Skills:** SQL, Looker Studio, R, Python, Microsoft Power BI, Excel, Tableau, Data Mining, Database Design, CargoWise, NaviOS  
 **Languages:** Arabic - Native Fluency, Spanish - Novice Proficiency  
 
-::: {.print-only}
-## References
-Available upon request
-:::
+References: *Available upon request*
