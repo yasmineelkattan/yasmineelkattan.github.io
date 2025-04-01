@@ -3,11 +3,19 @@ project:
 
 website:
   title: "Yasmine El-Kattan"
-  navbar:
+    navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact Me!
+
 
 format:
   html:
