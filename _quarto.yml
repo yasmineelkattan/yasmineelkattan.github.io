@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Yasmine El-Kattan"
-    navbar:
+  navbar:
     left:
       - href: index.qmd
         text: Home
@@ -16,7 +16,6 @@ website:
       - href: contact.qmd
         text: Contact Me!
 
-
 format:
   html:
     theme:
@@ -24,6 +23,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
