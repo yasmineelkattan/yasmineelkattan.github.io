@@ -7,3 +7,21 @@ format:
 ---
 
 # Projects
+**Lobster Land Project (MET AD654)** [May – June 2024]{.cvdate}
+
+- Helped a park manager select the best combination of 1980s movies for an event by conducting exploratory data analysis in Python.
+- Cleaned data and extracted valuable insights using visualizations.
+- Ran summary statistics of the dataset to uncover key trends and information.
+- Performed segmentation for vendors and explained each cluster.
+- Conducted conjoint analysis to determine the most popular food combinations.
+- Used A/B testing to identify the best event poster.
+- Reported findings and provided optimal recommendations to the park manager.
+
+
+** Senior Capstone Project **
+- Held the position of Analysis Lead, responsible for concept development
+- Ranked recommendations of multiple potential methods to extract information from the model to achieve both the ERP system setup and the Quality Control Plans
+- Partnered with Raytheon Technologies to recommend and implement a Quality Management software to reduce out of spec parts manufactured by suppliers
+
+** Airbnb New ORleans MET AD 699 **
+- 
