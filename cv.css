@@ -61,18 +61,28 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     text-transform: capitalize;
   }
 
-  h2 {
-    font-weight: 900;
-    text-transform: uppercase;
-    /* color: blueviolet; */
+  @media print {
+    ...
+  
+    h1, h2, h3 {
+      color: #007ba7; /* Use your site brand color */
+      font-family: 'Public Sans', sans-serif;
+    }
+  
+    h2 {
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+  
+    h3 {
+      font-weight: 700;
+      font-size: 12pt;
+      text-transform: uppercase;
+    }
+  
+    ...
   }
-
-  h3 {
-    font-weight: 700;
-    font-size: 12pt;
-    text-transform: uppercase;
-    /* color: green; */
-  }
+  
 
   p {
     font-size: small;
