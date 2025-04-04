@@ -19,12 +19,15 @@ I graduated from University of Massachusetts Amherst in 2022 with a Bachelors in
 ## My Hobbies
 Outside of work and school my hobbies include baking, nail art, reading, and working out. My field of work is incredibly fast paced and the beauty in these hobbies is I'm forced to focus on what is in front of me. Below are some pictures of items I have baked and some nail art I have done.
 
-::: {.g-col-4 style="text-align: center;"}
-![](images/Pink%20Chrome%20Nails.jpeg)
+::: {.grid}
+
+::: {.g-col-6 style="text-align: center;"}
+<img src="images/Pink%20Chrome%20Nails.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;" />
 :::
 
-::: {.g-col-4 style="text-align: center;"}
-![](images/Red%20Nails.jpeg)
+::: {.g-col-6 style="text-align: center;"}
+<img src="images/Red%20Nails.jpeg" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;" />
 :::
 
 :::
+
