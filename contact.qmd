@@ -3,14 +3,6 @@ title: "Contact Me!"
 format:
   html:
     theme: journal
-    include-in-header:
-      - text: |
-          <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
 ---
 
-
-
-[<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/yasmine-el-kattan/)
-
-[<i class="fa-solid fa-envelope"></i>](mailto:yasmineaelkattan@gmail.com)
+If you are looking to connect whether about the supply chain world, baking hacks, or nails please feel free to connect with me on  <a href="https://www.linkedin.com/in/yasmine-el-kattan/" target="_blank" style="color: #007ba7;">LinkedIn!</a> 
