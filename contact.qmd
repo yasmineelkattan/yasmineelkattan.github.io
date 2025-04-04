@@ -1,7 +1,16 @@
 ---
 title: "Contact Me!"
 format:
-    html:
-        theme: journal
-        toc: true
+  html:
+    theme: journal
+    include-in-header:
+      - text: |
+          <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
 ---
+
+
+
+[<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/yasmine-el-kattan/)
+
+[<i class="fa-solid fa-envelope"></i>](mailto:yasmineaelkattan@gmail.com)
