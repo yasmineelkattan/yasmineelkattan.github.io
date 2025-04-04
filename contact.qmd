@@ -1,9 +1,0 @@
----
-title: "Contact Me"
-format:
-    html:
-        theme: journal
-        toc: true
----
-
-# call  me beep me if u wanna reach me

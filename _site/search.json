@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Yasmine El-Kattan",
     "section": "",
-    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails."
+    "text": "Hi!\nThis is my Website for MET AD 688 that showcases me and my projects. I am a Procurement Analyst at Wayfair focusing primarily on ocean procurement and customs compliance. Outside of my job and school life I am enjoy reading romantasy, working out, baking, and painting my nails.\n\nHome Projects CV"
   },
   {
     "objectID": "contact.html",
@@ -53,14 +53,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects"
+    "text": "Lobster Land Project (MET AD654) May – June 2024\nThis was a graduate school group project designed to curate the optimal lineup of 1980s movies for a special event. This was accomplished by conducting comprehensive exploratory data analysis using Python and Tableau. We meticulously cleaned the dataset and created clear, insightful visualizations in Tableau, helping us extract valuable insights. Further in Python, we ran detailed summary statistics to uncover key trends and essential information within our dataset. The team utilized customer segmentation, conjoint analysis, and A/B testing for decisions made. Finally, we synthesized our findings into practical, data-driven recommendations, ensuring our project provided meaningful, actionable insights for the successful execution of the event. Check it out here! Check it out here!\nSenior Capstone Project September 2021 - May 2022\nFor my Industrial Engineering Senior Capstone Project, I was responsible for concept development and guiding analytical strategies. Our team collaborated with Raytheon to evaluate multiple softwares to balloon parts of spec parts manufactured by suppliers to decrease costs on behalf of Raytheon. We conducted comprehensive exploratory data analysis using R and creating cost-benefit analyses to rank and recommend the best softwares for Raytheon’s quality control. Check it out here!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Masters in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails."
+    "text": "My Headshot\nHi, I’m Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Masters in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails."
   },
   {
     "objectID": "about.html#professional-background",
@@ -74,6 +74,13 @@
     "href": "about.html#my-hobbies",
     "title": "About",
     "section": "My Hobbies",
-    "text": "My Hobbies\nOutside of work and school my hobbies include baking, nail art, reading, and working out. My field of work is incredibly fast paced and the beauty in these hobbies is I’m forced to focus on what is in front of me. Below are some pictures of items I have baked and some nail art I have done."
+    "text": "My Hobbies\nOutside of work and school my hobbies include baking, nail art, reading, and working out. My field of work is incredibly fast paced and the beauty in these hobbies is I’m forced to focus on what is in front of me. Below are some pictures of items I have baked and some nail art I have done.\n\n\n\n\n\n\n:::"
+  },
+  {
+    "objectID": "projects.html#airbnb-new-orleans-met-ad-699-october-2024---december-2024",
+    "href": "projects.html#airbnb-new-orleans-met-ad-699-october-2024---december-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "Lobster Land Project (MET AD654) May – June 2024\nThis was a graduate school group project designed to curate the optimal lineup of 1980s movies for a special event. This was accomplished by conducting comprehensive exploratory data analysis using Python and Tableau. We meticulously cleaned the dataset and created clear, insightful visualizations in Tableau, helping us extract valuable insights. Further in Python, we ran detailed summary statistics to uncover key trends and essential information within our dataset. The team utilized customer segmentation, conjoint analysis, and A/B testing for decisions made. Finally, we synthesized our findings into practical, data-driven recommendations, ensuring our project provided meaningful, actionable insights for the successful execution of the event. Check it out here!\nSenior Capstone Project September 2021 - May 2022\nFor my Industrial Engineering Senior Capstone Project, I was responsible for concept development and guiding analytical strategies. Our team collaborated with Raytheon to evaluate multiple softwares to balloon parts of spec parts manufactured by suppliers to decrease costs on behalf of Raytheon. We conducted comprehensive exploratory data analysis using R and creating cost-benefit analyses to rank and recommend the best softwares for Raytheon’s quality control. See it here!"
   }
 ]

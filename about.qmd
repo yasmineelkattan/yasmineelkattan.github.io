@@ -5,6 +5,9 @@ format:
         theme: journal
         toc: true
 ---
+:::{.center}
+!(images/headshot.jpg){ width=200px }
+:::
 
 Hi, I'm Yasmine El-Kattan and welcome to my website! I am a Procurement Analyst at Wayfair and a candidate for my Masters in Business Analytics from Boston University. I learned how to make my own website in my Web Analytics class in Spring 2025. This has become my hub to showcase my work and further my technical skills. Outside of my work and school life I enjoy reading, working out, baking, and painting my nails.
 
@@ -14,3 +17,13 @@ I graduated from University of Massachusetts Amherst in 2022 with a Bachelors in
 
 ## My Hobbies
 Outside of work and school my hobbies include baking, nail art, reading, and working out. My field of work is incredibly fast paced and the beauty in these hobbies is I'm forced to focus on what is in front of me. Below are some pictures of items I have baked and some nail art I have done.
+
+::: {.g-col-4 style="text-align: center;"}
+![](images/Pink%20Chrome%20Nails.jpeg)
+:::
+
+::: {.g-col-4 style="text-align: center;"}
+![](images/Red%20Nails.jpeg)
+:::
+
+:::

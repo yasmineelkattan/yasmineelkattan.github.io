@@ -6,14 +6,11 @@ format:
         toc: true
 ---
 
-# Projects
 **Lobster Land Project (MET AD654)** [May – June 2024]{.cvdate}
 
-This was a graduate school group project designed to curate the optimal lineup of 1980s movies for a special event. This was accomplished by conducting comprehensive exploratory data analysis using Python and Tableau. We meticulously cleaned the dataset and created clear, insightful visualizations in Tableau, helping us extract valuable insights. Further in Python, we ran detailed summary statistics to uncover key trends and essential information within our dataset. The team utilized customer segmentation, conjoint analysis, and A/B testing for decisions made. Finally, we synthesized our findings into practical, data-driven recommendations, ensuring our project provided meaningful, actionable insights for the successful execution of the event. Check it out here!
+This was a graduate school group project designed to curate the optimal lineup of 1980s movies for a special event. This was accomplished by conducting comprehensive exploratory data analysis using Python and Tableau. We meticulously cleaned the dataset and created clear, insightful visualizations in Tableau, helping us extract valuable insights. Further in Python, we ran detailed summary statistics to uncover key trends and essential information within our dataset. The team utilized customer segmentation, conjoint analysis, and A/B testing for decisions made. Finally, we synthesized our findings into practical, data-driven recommendations, ensuring our project provided meaningful, actionable insights for the successful execution of the event. Check it out here! <a href="https://drive.google.com/drive/folders/1ITSISEd5106-ERevTIBGq_DfJtiYrO21?usp=drive_link" target="_blank">Check it out here!</a>
 
-** Senior Capstone Project **
+**Senior Capstone Project** [September 2021 - May 2022]{.cvdate}
 
-For my Industrial Engineering Senior Capstone Project, I was responsible for concept development and guiding analytical strategies. Our team collaborated with Raytheon to evaluate multiple softwares to balloon parts of spec parts manufactured by suppliers to decrease costs on behalf of Raytheon. We conducted comprehensive exploratory data analysis using R and creating cost-benefit analyses to rank and recommend the best softwares for Raytheon's quality control. See it here!
+For my Industrial Engineering Senior Capstone Project, I was responsible for concept development and guiding analytical strategies. Our team collaborated with Raytheon to evaluate multiple softwares to balloon parts of spec parts manufactured by suppliers to decrease costs on behalf of Raytheon. We conducted comprehensive exploratory data analysis using R and creating cost-benefit analyses to rank and recommend the best softwares for Raytheon's quality control. <a href="https://drive.google.com/drive/folders/1-q3PVjGk8AlAUCfCIVgEBgawrS2NN3Z3" target="_blank">Check it out here!</a>
 
-** Airbnb New ORleans MET AD 699 [October 2024-December 2024] **
-- 
